@@ -1,0 +1,135 @@
+header{
+    text-align: center;
+    background-image: linear-gradient( to bottom,seagreen,green  );
+    
+    
+}
+ nav{
+    text-align: left;
+    margin-left: 20px;
+   
+ }
+ a {
+    color: white;
+ }
+
+ article{
+    color: green;
+    margin-bottom: auto;
+    font-size: xx-large;
+    
+    
+
+ }
+ @font-face {
+    font-family: idroid;
+    src: url(fontes/idroid.otf)
+  }
+
+ body{
+    background-color:lightgreen ;
+ }
+
+ main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 10px;
+    background-color: white;
+    width: 1000px;
+    height: 2560px;
+    margin-left: 450px;
+ }
+.historia{
+    font-family: idroid;
+}
+
+
+ .CdT{
+    font-family: idroid;
+ }
+
+ .p{
+    font-size:25px;
+    color: black;
+ }
+
+ .primeira{
+    font-family: idroid;
+    color:green;
+    background-color:lightgreen;
+ }
+picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+div{
+    display: block;
+    
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: lightgreen;
+    width: 800px;
+    height: 300px;
+    margin-left: 90px;
+}
+
+.verde{
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px;
+    width: 800px;
+    height: 20px;
+    margin-right: 10px;
+    margin-bottom: 1px;
+    margin-top:-10px;
+    margin-left: -10px;
+    text-align: left;
+    font-size: large;
+
+}
+.pr{
+    font-size: medium;
+    text-align: center;
+    color: black;
+}
+.lista1{
+   position: absolute;
+   text-transform: uppercase;
+   font-size: small;
+   text-align: left;
+   color: black;
+   text-decoration: none;
+}
+.lista2{
+   margin-left: 300px;
+   margin-top: 10px;
+   text-transform: uppercase;
+   font-size: small;
+   text-align: left;
+   color: black;
+   text-decoration: none;
+}
+.rodapé{
+   background-color: green;
+   height: 30px;
+}
